@@ -10,3 +10,4 @@ The Reset button will reset the timer
 
 The start/stop button will Start/Stop the timer respectively
 
+Link to the Application  https://jewel-7.github.io/Timer/
